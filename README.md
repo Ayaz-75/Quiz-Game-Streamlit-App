@@ -1,4 +1,3 @@
-```markdown
 # Python Quiz Game with Streamlit
 
 Welcome to the **Python Quiz Game** repository! This project is a fun interactive quiz game built using **Streamlit** where users can answer true/false questions, see their score, and track their progress throughout the game.
